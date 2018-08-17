@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jt-cart-cloud-provider
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cgb1803
+Implementation-Vendor-Id: cn.tedu
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/jt-cart-clou
+ d-provider/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
